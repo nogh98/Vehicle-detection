@@ -10,6 +10,8 @@ A sample video is already provided in the repository
 # How to run the algorithm?
 
 Run `VehicleDetection.m`
+
+
 **make sure the video2.mp4 is in the same directory of your m-file**
 
 # STEPS OF THE ALGORITHM:
