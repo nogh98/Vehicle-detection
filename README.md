@@ -1,7 +1,7 @@
 # Vehicle-detection
 This repository is for detecting vehicles from a highway surveillance camera footage project 
 
-**This project is done in MATLAB and its image processing toolbox**
+**This project is done using MATLAB and its image processing toolbox**
 
 You should provide a video from a highway (at least 100 frames) for the algorithm to work
 
