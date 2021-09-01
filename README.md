@@ -21,7 +21,7 @@ Then, by subtracting the Background from each frame, the foreground is calculate
 
 
 
-After that, using tresholding and some morphological operations, we are ready to detect vehicle
+After that, using tresholding and some morphological operations, we are ready to detect vehicles
 
 **(COMPUTER VISION SECTION)**
 
