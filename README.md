@@ -27,4 +27,5 @@ After that, using tresholding and some morphological operations, we are ready to
 
 The black and white frames are fed into a Blob Analysis algorithm which returns the coordinates
 of the detected vehicle
+
 ![Media1](https://user-images.githubusercontent.com/61092649/131709582-a840f7d9-282f-4bea-bef6-d2153b502751.gif)
