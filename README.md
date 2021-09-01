@@ -16,6 +16,7 @@ First, the Background is calculated by the median filter over the temporal dimen
 ![alt text](https://github.com/nogh98/Vehicle-detection/blob/main/Picture1.jpg?raw=true)
 
 Then, by subtracting the Background from each frame, the foreground is calculated
+![alt text](https://github.com/nogh98/Vehicle-detection/blob/main/foreground.avi?raw=true)
 
 After that, using tresholding and some morphological operations, we are ready to detect vehicle
 
